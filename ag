@@ -7,5 +7,7 @@ https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/chunklist_b2596000_slENG.m3
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/chunklist_b2596000_slENG.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MYTV",asian games 4 RTM [1080p] (MYTV)
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/chunklist_b2596000_slENG.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MYTV",asian games 5 RTM [1080p]
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/chunklist_b2596000_slENG.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MYTV",asian games 6 RTM [1080p]
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag6/chunklist_b2596000_slENG.m3u8
